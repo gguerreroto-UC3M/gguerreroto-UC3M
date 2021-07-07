@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gonzalo! An undergraduate student in B.Eng Computer Information Technologies.
 - 👀 I’m interested in MCU programming, 3D printing and analog electronics!
 - 🌱 I’m currently learning different tools within the Machine Learning and Data Science research fields.
-- 💞️ I’m looking to collaborate on every project with its goals is to improves people's lives! I love learning new stuff!
+- 💞️ I’m looking to collaborate on every project witch its goal is to improves people's lives! I love learning new stuff!
 - 📫 How to reach me, mainly contacting me via LinkedIn: https://www.linkedin.com/in/gguerreroto/
 
 <!---
