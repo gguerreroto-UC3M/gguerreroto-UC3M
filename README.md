@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gonzalo! Graduate student in B.Eng Telecommunications.
-- 👀 I’m interested in Medical Imaging and Machine Leaarning in Health!
+- 👀 I’m interested in Medical Imaging and Machine Learning in Health! I'm quite an expert in R&D :)
 - 🌱 I’m currently learning different tools within the Machine Learning and Data Science research fields.
 - 💞️ I’m looking to collaborate on every project witch its goal is to improves people's lives! I love learning new stuff!
 - 📫 How to reach me, mainly contacting me via LinkedIn: https://www.linkedin.com/in/gguerreroto/
